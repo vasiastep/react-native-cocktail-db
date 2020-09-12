@@ -3,7 +3,7 @@
 1. Clone this repository on Your local machine. Run command in bash:
 
 ```bash
-git clone https://github.com/vasiastep/testing-task-for-develops-today
+https://github.com/vasiastep/test-task-cocktail-db.git
 ```
 
 2. You need to install all dependencies. Use command:
