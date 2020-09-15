@@ -3,7 +3,7 @@
 1. Clone this repository on Your local machine. Run command in bash:
 
 ```bash
-https://github.com/vasiastep/test-task-cocktail-db.git
+https://github.com/vasiastep/react-native-cocktail-db.git
 ```
 
 2. You need to install all dependencies. Use command:
